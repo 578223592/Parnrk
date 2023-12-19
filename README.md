@@ -7,11 +7,10 @@
 
 方法1.克隆项目并安装Parnrk
 
-```
-# 使用 Github 
-git clone https://github.com/KGLongWamg/Parnrk.git
-
 请根据网络情况如无法克隆建议开启VPN
+```
+# 需要提前安装配置git
+git clone https://github.com/KGLongWamg/Parnrk.git
 ```
 
 方法2.下载zip解压缩
@@ -27,7 +26,8 @@ https://github.com/KGLongWamg/Parnrk/archive/refs/heads/main.zip
 ```
 2. 下载依赖项 
 ```
-pip install pip install -r requriements.txt
+cd ${project_dir}
+pip install -r requriements.txt
 ```
 3. 运行demo.py
 

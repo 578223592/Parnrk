@@ -1,2 +1,6 @@
 some_record
 app/view/Parnrk/__pycache__
+
+.idea
+
+*.pyc
